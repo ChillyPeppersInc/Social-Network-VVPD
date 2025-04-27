@@ -17,3 +17,5 @@
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: Java Spring
 - **База данных**: Sqlite3
+
+merge request test
